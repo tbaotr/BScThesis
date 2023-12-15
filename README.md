@@ -1,1 +1,1 @@
-# thesis
+# My BSc Thesis
